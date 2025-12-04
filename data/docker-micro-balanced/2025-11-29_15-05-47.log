@@ -1,0 +1,65 @@
+{
+  "mix": "balanced",
+  "results": {
+    "GET_/": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3866,
+      "avg_ms": 0
+    },
+    "GET_/echo": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3873,
+      "avg_ms": 0
+    },
+    "GET_/items": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3821,
+      "avg_ms": 0
+    },
+    "POST_/compute": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3836,
+      "avg_ms": 0
+    },
+    "GET_/compute/cpu": {
+      "count": 0,
+      "latencies": [],
+      "errors": 5843,
+      "avg_ms": 0
+    },
+    "GET_/compute/mem": {
+      "count": 0,
+      "latencies": [],
+      "errors": 5727,
+      "avg_ms": 0
+    },
+    "GET_/io/disk": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3919,
+      "avg_ms": 0
+    },
+    "GET_/latency/low": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3869,
+      "avg_ms": 0
+    },
+    "GET_/latency/medium": {
+      "count": 0,
+      "latencies": [],
+      "errors": 1939,
+      "avg_ms": 0
+    },
+    "GET_/error": {
+      "count": 0,
+      "latencies": [],
+      "errors": 1987,
+      "avg_ms": 0
+    }
+  }
+}

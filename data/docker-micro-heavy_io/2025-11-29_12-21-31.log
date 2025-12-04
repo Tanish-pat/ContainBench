@@ -1,0 +1,23 @@
+{
+  "mix": "heavy_io",
+  "results": {
+    "GET_/io/disk": {
+      "count": 0,
+      "latencies": [],
+      "errors": 22787,
+      "avg_ms": 0
+    },
+    "POST_/compute": {
+      "count": 0,
+      "latencies": [],
+      "errors": 7772,
+      "avg_ms": 0
+    },
+    "GET_/latency/high": {
+      "count": 0,
+      "latencies": [],
+      "errors": 7615,
+      "avg_ms": 0
+    }
+  }
+}

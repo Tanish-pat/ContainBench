@@ -1,0 +1,69 @@
+ENGINE: podman
+WORKLOAD: micro
+START: 2025-11-29T15:51:57+05:30
+USING: perf stat
+DURATION: 30s
+perf PID: 1099117
+#           time             counts unit events
+     1.001078779      3,103,820,910      cpu-cycles                                                            
+     1.001078779      3,904,812,898      instructions                     #    1.26  insn per cycle            
+     2.004102293      3,090,993,561      cpu-cycles                                                            
+     2.004102293      3,901,105,541      instructions                     #    1.26  insn per cycle            
+     3.006938814      2,992,434,415      cpu-cycles                                                            
+     3.006938814      3,836,986,373      instructions                     #    1.28  insn per cycle            
+     4.009194041      2,998,605,365      cpu-cycles                                                            
+     4.009194041      3,892,882,243      instructions                     #    1.30  insn per cycle            
+     5.011982369      2,993,981,329      cpu-cycles                                                            
+     5.011982369      3,876,723,701      instructions                     #    1.29  insn per cycle            
+     6.014099844      3,255,461,278      cpu-cycles                                                            
+     6.014099844      4,080,491,751      instructions                     #    1.25  insn per cycle            
+     7.016189346      3,081,740,118      cpu-cycles                                                            
+     7.016189346      3,896,767,475      instructions                     #    1.26  insn per cycle            
+     8.018411116      2,982,377,488      cpu-cycles                                                            
+     8.018411116      3,836,867,153      instructions                     #    1.29  insn per cycle            
+     9.020520306      3,023,636,754      cpu-cycles                                                            
+     9.020520306      3,922,139,134      instructions                     #    1.30  insn per cycle            
+    10.022439106      2,955,372,823      cpu-cycles                                                            
+    10.022439106      3,824,819,812      instructions                     #    1.29  insn per cycle            
+    11.024570910      2,977,465,502      cpu-cycles                                                            
+    11.024570910      3,836,995,476      instructions                     #    1.29  insn per cycle            
+    12.026648814      2,954,115,600      cpu-cycles                                                            
+    12.026648814      3,814,849,939      instructions                     #    1.29  insn per cycle            
+    13.028817380      3,002,676,539      cpu-cycles                                                            
+    13.028817380      3,871,987,837      instructions                     #    1.29  insn per cycle            
+    14.031017557      2,975,741,135      cpu-cycles                                                            
+    14.031017557      3,845,866,846      instructions                     #    1.29  insn per cycle            
+    15.033200174      2,999,704,018      cpu-cycles                                                            
+    15.033200174      3,889,579,345      instructions                     #    1.30  insn per cycle            
+    16.036065636      3,058,936,666      cpu-cycles                                                            
+    16.036065636      3,952,923,350      instructions                     #    1.29  insn per cycle            
+    17.038183673      2,978,610,795      cpu-cycles                                                            
+    17.038183673      3,851,148,479      instructions                     #    1.29  insn per cycle            
+    18.040433180      3,038,494,858      cpu-cycles                                                            
+    18.040433180      3,953,387,581      instructions                     #    1.30  insn per cycle            
+    19.042781296      3,058,470,979      cpu-cycles                                                            
+    19.042781296      3,957,242,411      instructions                     #    1.29  insn per cycle            
+    20.044987570      2,998,283,957      cpu-cycles                                                            
+    20.044987570      3,840,677,543      instructions                     #    1.28  insn per cycle            
+    21.047151877      3,038,795,462      cpu-cycles                                                            
+    21.047151877      3,953,710,699      instructions                     #    1.30  insn per cycle            
+    22.049465702      3,025,374,426      cpu-cycles                                                            
+    22.049465702      3,852,512,269      instructions                     #    1.27  insn per cycle            
+    23.051591013      2,977,345,756      cpu-cycles                                                            
+    23.051591013      3,833,289,939      instructions                     #    1.29  insn per cycle            
+    24.053563924      2,938,968,868      cpu-cycles                                                            
+    24.053563924      3,779,785,821      instructions                     #    1.29  insn per cycle            
+    25.055861739      2,959,393,375      cpu-cycles                                                            
+    25.055861739      3,828,798,982      instructions                     #    1.29  insn per cycle            
+    26.058059506      2,974,591,849      cpu-cycles                                                            
+    26.058059506      3,854,915,286      instructions                     #    1.30  insn per cycle            
+#           time             counts unit events
+    27.060214992      2,960,116,954      cpu-cycles                                                            
+    27.060214992      3,836,687,263      instructions                     #    1.30  insn per cycle            
+    28.062465369      3,047,774,497      cpu-cycles                                                            
+    28.062465369      3,924,795,355      instructions                     #    1.29  insn per cycle            
+    29.064785692      3,009,181,695      cpu-cycles                                                            
+    29.064785692      3,923,922,891      instructions                     #    1.30  insn per cycle            
+    30.002408229      2,789,561,818      cpu-cycles                                                            
+    30.002408229      3,575,586,929      instructions                     #    1.28  insn per cycle            
+END: 2025-11-29T15:52:27+05:30

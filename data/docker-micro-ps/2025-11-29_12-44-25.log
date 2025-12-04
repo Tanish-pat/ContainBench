@@ -1,0 +1,342 @@
+    PID    PPID CMD                         %MEM %CPU
+2858490       1 /home/tanish/miniconda3/env  0.0 99.8
+     95       2 [kswapd0]                    0.0  1.2
+ 266489  266432 /home/tanish/.vscode-server  4.4  0.7
+ 335314  266489 /home/tanish/.vscode-server  5.8  0.3
+3548782    1646 rootlesskit --state-dir=/ru  0.0  0.2
+2712709       1 /home/tanish/mybin/zellij -  0.1  0.2
+ 785336    1678 sshd: unknown [priv]         0.0  0.2
+   2964       1 /usr/bin/java -Djava.awt.he  8.6  0.2
+ 266500  266432 /home/tanish/.vscode-server  0.5  0.1
+   1592       1 /usr/bin/redis-server 127.0  0.0  0.1
+      1       0 /usr/lib/systemd/systemd --  0.0  0.1
+     74       2 [kcompactd0]                 0.0  0.1
+3418929       1 /usr/lib/systemd/systemd-jo  0.3  0.1
+3548822 3548794 dockerd                      0.6  0.1
+   3138    2807 /usr/bin/gnome-shell         0.4  0.1
+3548794 3548782 /proc/self/exe --state-dir=  0.0  0.1
+ 266393  266375 /home/tanish/.vscode-server  0.1  0.0
+ 266432  266428 /home/tanish/.vscode-server  0.7  0.0
+   1646       1 /usr/lib/systemd/systemd --  0.0  0.0
+   1637       1 /usr/bin/containerd          0.1  0.0
+   1645       1 /usr/lib/systemd/systemd --  0.0  0.0
+   1820       1 /usr/lib/systemd/systemd --  0.0  0.0
+1539534       1 /usr/lib/systemd/systemd-oo  0.0  0.0
+ 266374  266303 sshd: tanish@notty           0.0  0.0
+   1267       1 @dbus-daemon --system --add  0.0  0.0
+3548851 3548822 containerd --config /run/us  0.3  0.0
+ 241140       1 /usr/sbin/tailscaled --stat  0.2  0.0
+    544       2 [irq/38-nvidia]              0.0  0.0
+     18       2 [rcu_preempt]                0.0  0.0
+   1379       1 /usr/sbin/NetworkManager --  0.0  0.0
+ 266467  266432 /home/tanish/.vscode-server  0.4  0.0
+ 675126       2 [kworker/u32:7-flush-253:0]  0.0  0.0
+ 763515       2 [kworker/u32:8-flush-253:0]  0.0  0.0
+   3709    2807 /usr/libexec/gsd-housekeepi  0.0  0.0
+3337007       1 /usr/lib/snapd/snapd         0.2  0.0
+1539029       1 /usr/lib/systemd/systemd-ud  0.0  0.0
+ 627558       2 [kworker/u32:0-flush-253:0]  0.0  0.0
+ 717838       2 [kworker/u32:3-writeback]    0.0  0.0
+ 478116       2 [kworker/u32:5-writeback]    0.0  0.0
+   1308       1 /usr/sbin/rsyslogd -n -iNON  0.0  0.0
+    546       2 [nv_queue]                   0.0  0.0
+ 581265       2 [kworker/u32:6-flush-253:0]  0.0  0.0
+   3671    2807 /usr/libexec/gsd-sharing     0.0  0.0
+ 335258  266489 /home/tanish/.vscode-server  0.6  0.0
+ 717630       2 [kworker/u32:2-flush-253:0]  0.0  0.0
+    272       2 [jbd2/vda2-8]                0.0  0.0
+1541283       1 /usr/lib/systemd/systemd-ma  0.0  0.0
+3335919 3335822 elastic-agent container      0.1  0.0
+3335938 3335919 /usr/share/elastic-agent/da  0.1  0.0
+   1678       1 sshd: /usr/sbin/sshd -D [li  0.0  0.0
+   1295       1 /usr/libexec/accounts-daemo  0.0  0.0
+ 717626       2 [kworker/u32:1-flush-253:0]  0.0  0.0
+ 763514       2 [kworker/u32:4-flush-253:0]  0.0  0.0
+1540306       1 /usr/lib/systemd/systemd-re  0.0  0.0
+ 335148  266489 /home/tanish/.vscode-server  0.0  0.0
+ 738976       2 [kworker/0:0-events]         0.0  0.0
+   1300       1 /usr/libexec/udisks2/udisks  0.0  0.0
+3335793       1 /usr/bin/containerd-shim-ru  0.0  0.0
+   1965    1899 /usr/lib/xorg/Xorg vt1 -dis  0.0  0.0
+ 740714       2 [kworker/2:2-events]         0.0  0.0
+   1280       1 /usr/lib/polkit-1/polkitd -  0.0  0.0
+ 649843       2 [kworker/0:2-cgroup_destroy  0.0  0.0
+ 762989       2 [kworker/3:2-events]         0.0  0.0
+ 762935       2 [kworker/1:3-mm_percpu_wq]   0.0  0.0
+  35795       1 /usr/libexec/fwupd/fwupd     0.1  0.0
+   1691       1 /usr/local/bin/ollama serve  0.0  0.0
+ 266671  266489 /home/tanish/.vscode-server  0.4  0.0
+   1266       1 avahi-daemon: running [ubun  0.0  0.0
+ 717812       2 [kworker/1:0-cgroup_destroy  0.0  0.0
+ 535415       2 [kworker/4:0-events]         0.0  0.0
+ 673915       2 [kworker/7:1-mm_percpu_wq]   0.0  0.0
+ 739093       2 [kworker/7:0-events]         0.0  0.0
+ 764067       2 [kworker/6:0-events]         0.0  0.0
+   1299       1 /usr/lib/systemd/systemd-lo  0.0  0.0
+ 579276       2 [kworker/5:1-ata_sff]        0.0  0.0
+ 696999       2 [kworker/6:1-events]         0.0  0.0
+ 580499       2 [kworker/1:1-cgroup_destroy  0.0  0.0
+3548813 3548782 slirp4netns --mtu 65520 -r   0.0  0.0
+   3688    2807 /usr/libexec/gsd-rfkill      0.0  0.0
+3335822 3335793 /usr/bin/tini -- /usr/local  0.0  0.0
+3545705    1646 postgres                     0.1  0.0
+3547762    1646 postgres                     0.1  0.0
+ 718237       2 [kworker/5:2-cgroup_destroy  0.0  0.0
+   1435       1 /usr/sbin/ModemManager       0.0  0.0
+ 716766       2 [kworker/3:0-events]         0.0  0.0
+     17       2 [ksoftirqd/0]                0.0  0.0
+     35       2 [kworker/4:0H-kblockd]       0.0  0.0
+    186       2 [kworker/6:1H-kblockd]       0.0  0.0
+     90       2 [kworker/2:1H-kblockd]       0.0  0.0
+    135       2 [kworker/0:1H-kblockd]       0.0  0.0
+     63       2 [ksoftirqd/7]                0.0  0.0
+    108       2 [kworker/1:1H-kblockd]       0.0  0.0
+ 695576       2 [kworker/3:1-events]         0.0  0.0
+    161       2 [kworker/7:1H-kblockd]       0.0  0.0
+     45       2 [ksoftirqd/1]                0.0  0.0
+    187       2 [kworker/3:1H-kblockd]       0.0  0.0
+     27       2 [ksoftirqd/2]                0.0  0.0
+     20       2 [rcu_exp_gp_kthread_worker]  0.0  0.0
+    114       2 [kworker/5:1H-kblockd]       0.0  0.0
+     33       2 [ksoftirqd/4]                0.0  0.0
+     39       2 [ksoftirqd/6]                0.0  0.0
+ 425495  266500 /usr/bin/bash --init-file /  0.0  0.0
+   2083       1 /usr/libexec/rtkit-daemon    0.0  0.0
+     51       2 [ksoftirqd/3]                0.0  0.0
+   3676    2807 /usr/libexec/gsd-color       0.0  0.0
+ 266733  266500 /usr/bin/bash --init-file /  0.0  0.0
+     57       2 [ksoftirqd/5]                0.0  0.0
+3547892 3547762 postgres: walwriter          0.0  0.0
+3545842 3545705 postgres: walwriter          0.0  0.0
+3545840 3545705 postgres: background writer  0.0  0.0
+ 267072  266500 /usr/bin/bash --init-file /  0.0  0.0
+3367761       2 [kworker/0:0H-kblockd]       0.0  0.0
+3547888 3547762 postgres: background writer  0.0  0.0
+3545843 3545705 postgres: autovacuum launch  0.0  0.0
+   1986    1646 /usr/bin/dbus-daemon --sess  0.0  0.0
+3547893 3547762 postgres: autovacuum launch  0.0  0.0
+     32       2 [migration/4]                0.0  0.0
+   1380       1 /usr/sbin/wpa_supplicant -u  0.0  0.0
+     38       2 [migration/6]                0.0  0.0
+     21       2 [migration/0]                0.0  0.0
+     26       2 [migration/2]                0.0  0.0
+1541392       1 /usr/sbin/dnsmasq --conf-fi  0.0  0.0
+1538836       1 /usr/lib/systemd/systemd-ti  0.0  0.0
+     56       2 [migration/5]                0.0  0.0
+     62       2 [migration/7]                0.0  0.0
+     50       2 [migration/3]                0.0  0.0
+     44       2 [migration/1]                0.0  0.0
+   1296       1 /usr/sbin/cron -f -P         0.0  0.0
+ 266303    1678 sshd: tanish [priv]          0.0  0.0
+   2637    1882 /snap/snapd-desktop-integra  0.0  0.0
+ 335292  266500 /usr/bin/bash --init-file /  0.0  0.0
+   2086    1646 /usr/libexec/xdg-document-p  0.0  0.0
+   2638    1880 /snap/snapd-desktop-integra  0.0  0.0
+     76       2 [khugepaged]                 0.0  0.0
+   3712    2807 /usr/libexec/gsd-power       0.0  0.0
+     69       2 [khungtaskd]                 0.0  0.0
+ 186102       1 /usr/sbin/cups-browsed       0.1  0.0
+   1324       1 /usr/bin/nvidia-persistence  0.0  0.0
+   1720       1 /usr/sbin/kerneloops --test  0.0  0.0
+   1723       1 /usr/sbin/kerneloops         0.0  0.0
+   1874    1646 /usr/bin/pipewire            0.0  0.0
+      2       0 [kthreadd]                   0.0  0.0
+   1886    1646 /usr/bin/wireplumber         0.0  0.0
+   2807    2805 /usr/libexec/gnome-session-  0.0  0.0
+ 186100       1 /usr/sbin/cupsd -l           0.0  0.0
+   1880    1646 /snap/snapd-desktop-integra  0.0  0.0
+   1882    1645 /snap/snapd-desktop-integra  0.0  0.0
+ 266375  266374 sh                           0.0  0.0
+   1270       1 /usr/libexec/gnome-remote-d  0.0  0.0
+3547894 3547762 postgres: logical replicati  0.0  0.0
+3545844 3545705 postgres: logical replicati  0.0  0.0
+   3697    2807 /usr/libexec/gsd-media-keys  0.0  0.0
+2712902 2712709 /bin/bash                    0.0  0.0
+   1284       1 /usr/libexec/power-profiles  0.0  0.0
+   2084    1820 /usr/libexec/xdg-document-p  0.0  0.0
+   3641       1 /usr/libexec/upowerd         0.0  0.0
+   1881    1820 /usr/bin/wireplumber         0.0  0.0
+   3420    3138 /usr/libexec/mutter-x11-fra  0.0  0.0
+     70       2 [oom_reaper]                 0.0  0.0
+1539049       2 [psimon]                     0.0  0.0
+   1887    1645 /usr/bin/wireplumber         0.0  0.0
+   3684    2807 /usr/libexec/gsd-print-noti  0.0  0.0
+   2806    2805 dbus-daemon --nofork --prin  0.0  0.0
+    724       2 [UVM global queue]           0.0  0.0
+3547887 3547762 postgres: checkpointer       0.0  0.0
+3545839 3545705 postgres: checkpointer       0.0  0.0
+   2085    1645 /usr/libexec/xdg-document-p  0.0  0.0
+    728       2 [UVM Tools Event Queue]      0.0  0.0
+   3438       1 /usr/libexec/colord          0.0  0.0
+   1997    1646 /usr/bin/tmux -S /home/tani  0.0  0.0
+1541620       1 /usr/sbin/virtlogd           0.0  0.0
+2712066       1 /bin/bash --init-file /home  0.0  0.0
+   3716    3138 ibus-daemon --panel disable  0.0  0.0
+   1635       1 /usr/bin/python3 /usr/share  0.0  0.0
+   3988       1 /usr/bin/gjs -m /usr/share/  0.0  0.0
+   3673    2807 /usr/libexec/gsd-wacom       0.0  0.0
+   3604       1 /usr/bin/gjs -m /usr/share/  0.0  0.0
+   1981    1820 /usr/bin/dbus-daemon --sess  0.0  0.0
+   1999    1997 -bash                        0.0  0.0
+   1978    1645 /usr/bin/dbus-daemon --sess  0.0  0.0
+   1297       1 /usr/libexec/switcheroo-con  0.0  0.0
+1437612    1820 /usr/bin/gnome-keyring-daem  0.0  0.0
+   1885    1820 /usr/bin/pipewire-pulse      0.0  0.0
+   1873    1645 /usr/bin/pipewire            0.0  0.0
+   1875    1820 /usr/bin/pipewire            0.0  0.0
+   1762       1 /usr/sbin/gdm3               0.0  0.0
+   3817       1 /usr/libexec/gsd-printer     0.0  0.0
+   3680    2807 /usr/libexec/gsd-keyboard    0.0  0.0
+   1889    1645 /usr/bin/pipewire-pulse      0.0  0.0
+   1878    1645 /usr/bin/pipewire -c filter  0.0  0.0
+   1876    1820 /usr/bin/pipewire -c filter  0.0  0.0
+   1274       1 /usr/bin/lttng-sessiond      0.0  0.0
+1541619       1 /usr/sbin/virtlockd          0.0  0.0
+   3894       1 /usr/libexec/ibus-portal     0.0  0.0
+   3887       1 /usr/libexec/ibus-x11 --kil  0.0  0.0
+   3694    2807 /usr/libexec/gsd-datetime    0.0  0.0
+   3703    2807 /usr/libexec/gsd-sound       0.0  0.0
+   1888    1646 /usr/bin/pipewire-pulse      0.0  0.0
+   1877    1646 /usr/bin/pipewire -c filter  0.0  0.0
+   1813    1762 gdm-session-worker [pam/gdm  0.0  0.0
+   3691    2807 /usr/libexec/gsd-smartcard   0.0  0.0
+   3436       1 /usr/libexec/at-spi2-regist  0.0  0.0
+   2829    2819 /usr/bin/dbus-daemon --conf  0.0  0.0
+   2819       1 /usr/libexec/at-spi-bus-lau  0.0  0.0
+   2379       2 [UVM GPU1 BH]                0.0  0.0
+   2380       2 [UVM GPU1 KC]                0.0  0.0
+      3       2 [pool_workqueue_release]     0.0  0.0
+      4       2 [kworker/R-rcu_gp]           0.0  0.0
+      5       2 [kworker/R-sync_wq]          0.0  0.0
+      6       2 [kworker/R-kvfree_rcu_recla  0.0  0.0
+      7       2 [kworker/R-slub_flushwq]     0.0  0.0
+      8       2 [kworker/R-netns]            0.0  0.0
+     13       2 [kworker/R-mm_percpu_wq]     0.0  0.0
+     14       2 [rcu_tasks_kthread]          0.0  0.0
+     15       2 [rcu_tasks_rude_kthread]     0.0  0.0
+     16       2 [rcu_tasks_trace_kthread]    0.0  0.0
+     19       2 [rcu_exp_par_gp_kthread_wor  0.0  0.0
+     22       2 [idle_inject/0]              0.0  0.0
+     23       2 [cpuhp/0]                    0.0  0.0
+     24       2 [cpuhp/2]                    0.0  0.0
+     25       2 [idle_inject/2]              0.0  0.0
+     30       2 [cpuhp/4]                    0.0  0.0
+     31       2 [idle_inject/4]              0.0  0.0
+     36       2 [cpuhp/6]                    0.0  0.0
+     37       2 [idle_inject/6]              0.0  0.0
+     42       2 [cpuhp/1]                    0.0  0.0
+     43       2 [idle_inject/1]              0.0  0.0
+     48       2 [cpuhp/3]                    0.0  0.0
+     49       2 [idle_inject/3]              0.0  0.0
+     54       2 [cpuhp/5]                    0.0  0.0
+     55       2 [idle_inject/5]              0.0  0.0
+     60       2 [cpuhp/7]                    0.0  0.0
+     61       2 [idle_inject/7]              0.0  0.0
+     66       2 [kdevtmpfs]                  0.0  0.0
+     67       2 [kworker/R-inet_frag_wq]     0.0  0.0
+     68       2 [kauditd]                    0.0  0.0
+     73       2 [kworker/R-writeback]        0.0  0.0
+     75       2 [ksmd]                       0.0  0.0
+     77       2 [kworker/R-kintegrityd]      0.0  0.0
+     78       2 [kworker/R-kblockd]          0.0  0.0
+     79       2 [kworker/R-blkcg_punt_bio]   0.0  0.0
+     80       2 [irq/9-acpi]                 0.0  0.0
+     83       2 [kworker/R-tpm_dev_wq]       0.0  0.0
+     84       2 [kworker/R-ata_sff]          0.0  0.0
+     85       2 [kworker/R-md]               0.0  0.0
+     86       2 [kworker/R-md_bitmap]        0.0  0.0
+     87       2 [kworker/R-edac-poller]      0.0  0.0
+     88       2 [kworker/R-devfreq_wq]       0.0  0.0
+     89       2 [watchdogd]                  0.0  0.0
+     96       2 [ecryptfs-kthread]           0.0  0.0
+     97       2 [kworker/R-kthrotld]         0.0  0.0
+     98       2 [kworker/R-acpi_thermal_pm]  0.0  0.0
+     99       2 [scsi_eh_0]                  0.0  0.0
+    100       2 [kworker/R-scsi_tmf_0]       0.0  0.0
+    101       2 [scsi_eh_1]                  0.0  0.0
+    102       2 [kworker/R-scsi_tmf_1]       0.0  0.0
+    106       2 [kworker/4:1H]               0.0  0.0
+    107       2 [kworker/R-mld]              0.0  0.0
+    109       2 [kworker/R-ipv6_addrconf]    0.0  0.0
+    117       2 [kworker/R-kstrp]            0.0  0.0
+    134       2 [kworker/R-charger_manager]  0.0  0.0
+    273       2 [kworker/R-ext4-rsv-convers  0.0  0.0
+    424       2 [nv_queue]                   0.0  0.0
+    425       2 [nv_queue]                   0.0  0.0
+    486       2 [kworker/R-cryptd]           0.0  0.0
+    537       2 [nvidia-modeset/kthread_q]   0.0  0.0
+    538       2 [nvidia-modeset/deferred_cl  0.0  0.0
+    539       2 [kworker/R-ttm]              0.0  0.0
+    545       2 [nvidia]                     0.0  0.0
+    587       2 [kworker/R-nfit]             0.0  0.0
+    726       2 [UVM deferred release queue  0.0  0.0
+   1319    1266 avahi-daemon: chroot helper  0.0  0.0
+   1437    1274 /usr/bin/lttng-sessiond      0.0  0.0
+   1717    1645 (sd-pam)                     0.0  0.0
+   1718    1646 (sd-pam)                     0.0  0.0
+   1759       1 /usr/bin/netserver           0.0  0.0
+   1763       2 [kworker/R-iprt-VBoxWQueue]  0.0  0.0
+   1783       1 nginx: master process /usr/  0.0  0.0
+   1784    1783 nginx: worker process        0.0  0.0
+   1785    1783 nginx: worker process        0.0  0.0
+   1786    1783 nginx: worker process        0.0  0.0
+   1787    1783 nginx: worker process        0.0  0.0
+   1788    1783 nginx: worker process        0.0  0.0
+   1790    1783 nginx: worker process        0.0  0.0
+   1791    1783 nginx: worker process        0.0  0.0
+   1792    1783 nginx: worker process        0.0  0.0
+   1821    1820 (sd-pam)                     0.0  0.0
+   1899    1813 /usr/libexec/gdm-x-session   0.0  0.0
+   2110    1820 /usr/libexec/xdg-permission  0.0  0.0
+   2111    1645 /usr/libexec/xdg-permission  0.0  0.0
+   2112    1646 /usr/libexec/xdg-permission  0.0  0.0
+   2136    2085 fusermount3 -o rw,nosuid,no  0.0  0.0
+   2137    2086 fusermount3 -o rw,nosuid,no  0.0  0.0
+   2138    2084 fusermount3 -o rw,nosuid,no  0.0  0.0
+   2378       2 [vidmem lazy free]           0.0  0.0
+   2805    1899 dbus-run-session -- gnome-s  0.0  0.0
+   3578       1 /usr/libexec/xdg-permission  0.0  0.0
+   3700    2807 /usr/libexec/gsd-screensave  0.0  0.0
+   3706    2807 /usr/libexec/gsd-a11y-setti  0.0  0.0
+   3876    3716 /usr/libexec/ibus-memconf    0.0  0.0
+   4007    3716 /usr/libexec/ibus-engine-si  0.0  0.0
+  14326       2 [kworker/R-tls-strp]         0.0  0.0
+ 241044       2 [psimon]                     0.0  0.0
+ 266428  266393 sh /home/tanish/.vscode-ser  0.0  0.0
+ 266542  266393 /bin/sh                      0.0  0.0
+ 490768       2 [kworker/u33:0-ttm]          0.0  0.0
+ 692275       2 [kworker/u33:4-ttm]          0.0  0.0
+ 696877       2 [kworker/2:1-cgroup_destroy  0.0  0.0
+ 717408  266733 xargs -I{} ./scripts/run_al  0.0  0.0
+ 738751       2 [kworker/6:2-events]         0.0  0.0
+ 738940       2 [kworker/4:2-events]         0.0  0.0
+ 762780       2 [kworker/5:0-cgroup_destroy  0.0  0.0
+ 762934       2 [kworker/1:2]                0.0  0.0
+ 763516       2 [kworker/u32:9]              0.0  0.0
+ 763623       2 [kworker/4:1-cgroup_destroy  0.0  0.0
+ 763634       2 [kworker/0:1-rcu_gp]         0.0  0.0
+ 764391  717408 bash ./scripts/run_all.sh    0.0  0.0
+ 764859  266375 sleep 180                    0.0  0.0
+ 785214       2 [kworker/u33:1-ttm]          0.0  0.0
+ 785215       2 [kworker/u33:2-ttm]          0.0  0.0
+ 785337  785336 sshd: unknown [net]          0.0  0.0
+ 785379       2 [kworker/2:0]                0.0  0.0
+ 785432    1678 sshd: unknown [priv]         0.0  0.0
+ 785433  785432 sshd: unknown [net]          0.0  0.0
+ 785434    1678 sshd: [accepted]             0.0  0.0
+ 785435  785434 sshd: [net]                  0.0  0.0
+ 785440  764391 bash ./scripts/collect_metr  0.0  0.0
+ 785447  785440 ps -eo pid,ppid,cmd,%mem,%c  0.0  0.0
+ 979887       1 catatonit -P                 0.0  0.0
+1541393 1541392 /usr/sbin/dnsmasq --conf-fi  0.0  0.0
+2040108       1 /usr/bin/iperf3 --server --  0.0  0.0
+2435509       2 [kworker/R-ib-comp-wq]       0.0  0.0
+2435510       2 [kworker/R-ib-comp-unb-wq]   0.0  0.0
+2435511       2 [kworker/R-ib_mcast]         0.0  0.0
+2435512       2 [kworker/R-ib_nl_sa_wq]      0.0  0.0
+2532694       2 [kworker/7:2H-kblockd]       0.0  0.0
+2586368       2 [kworker/5:2H]               0.0  0.0
+2954168       2 [kworker/2:0H]               0.0  0.0
+3316828       2 [kworker/3:0H]               0.0  0.0
+3399087       2 [kworker/1:2H]               0.0  0.0
+3401697       2 [kworker/6:2H]               0.0  0.0

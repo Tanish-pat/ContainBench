@@ -1,0 +1,29 @@
+{
+  "mix": "heavy_cpu",
+  "results": {
+    "GET_/compute/cpu": {
+      "count": 0,
+      "latencies": [],
+      "errors": 21853,
+      "avg_ms": 0
+    },
+    "GET_/compute/mem": {
+      "count": 0,
+      "latencies": [],
+      "errors": 9620,
+      "avg_ms": 0
+    },
+    "GET_/io/disk": {
+      "count": 0,
+      "latencies": [],
+      "errors": 3963,
+      "avg_ms": 0
+    },
+    "GET_/latency/high": {
+      "count": 0,
+      "latencies": [],
+      "errors": 4022,
+      "avg_ms": 0
+    }
+  }
+}
